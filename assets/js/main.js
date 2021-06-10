@@ -249,7 +249,7 @@ function copyText (textToCopy) {
 }
 
 $('#copy-useless-contract').click(function() {
-  copyText('0x98671df651cd288b8bfddb49a34a03e604799c6d');
+  copyText('0x2cd2664Ce5639e46c6a3125257361e01d0213657');
 })
 
 })(jQuery);
