@@ -1333,6 +1333,49 @@ section {
 }
 
 /*--------------------------------------------------------------
+# OUR TEAM
+--------------------------------------------------------------*/
+.our-team-box {
+  padding: 20px;
+}
+
+.our-team-box img {
+  border-radius: 25px;
+  background-color: #4e4b43;
+  border: 1px solid #4e4b43;
+  box-shadow: 2px 2px;
+}
+
+.our-team .our-team-item {
+  margin: 40px 0;
+  padding: 20px 0;
+}
+
+.our-team .our-team-item i {
+  color: #ffb600b8;
+  float: left;
+  line-height: 0;
+  padding: 13px;
+  margin: 0;
+  font-size: 24px;
+  text-align: center
+}
+
+.our-team .our-team-item h4 {
+  line-height: 32px;
+  font-weight: 600;
+  margin: 5px;
+  text-align: center;
+  color:rgba(9, 9, 9, 0.6)
+}
+
+.our-team .our-team-item p {
+  text-align: center;
+  color:rgba(9, 9, 9, 0.6)
+}
+
+
+/*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 .contact .contact-about h3 {
