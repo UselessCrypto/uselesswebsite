@@ -716,10 +716,9 @@ section {
 
 .counts .content .count-box span {
   line-height: 30px;
-  display: block;
   font-weight: 700;
   color: #29292d;
-  margin-left: 50px;
+  margin-left: 18px;
 }
 
 .counts .content .count-box p {
@@ -816,6 +815,10 @@ section {
 
 .services .title a {
   color: #111;
+}
+
+.services .title a:hover {
+  text-decoration: underline;
 }
 
 .services .description {
